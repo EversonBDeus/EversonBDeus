@@ -1,6 +1,6 @@
 ### Olá eu sou Everson Boeira de Deus 🤙🏻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everson_deus?igsh=ZGNjOWZkYTE3MQ==)
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/everson-deus-181b99219)
 
 
