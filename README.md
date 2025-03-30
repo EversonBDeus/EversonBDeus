@@ -24,6 +24,8 @@ Com conhecimento em Nuxt UI para a criação de interfaces dinâmicas e responsi
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js 3](https://img.shields.io/badge/Nuxt.js_3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt.UI](https://img.shields.io/badge/Nuxt.UI-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=whit)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=Vuetify&logoColor=white)
