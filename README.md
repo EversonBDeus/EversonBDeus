@@ -7,11 +7,12 @@
 	
 ## Sobre 
 <div style="border: 1px solid #ccc; padding: 20px;  backdrop-filter: blur(10px); border-radius: 10px; text-align: center;"><br/>
-     <p style="text-align: left;">Sou um professional recém-formado com paixão por Front-end
-        e conhecimento em Back-end. Tenho experiência em Vue.js JavaScrip, TypeScryp,Bootstrap, Node.js e Aws...</p>
+     <p style="text-align: left;">Sou um profissional de TI com experiência em desenvolvimento web e suporte técnico, com foco em tecnologias modernas e soluções inovadoras. Possuo uma sólida formação prática e acadêmica, tendo cursado Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, além de diversos cursos complementares nas áreas de front-end, back-end e infraestrutura de nuvem.
+</p>
         <p style="text-align: left;">
-        Além disso estudo  Desinger UX/UI, Figma e Docker
-        Estou pronto para aplicar minhas habilidades e conhecimento em um ambiente desafiador e colaborativo.
+        Tenho experiência no desenvolvimento de sistemas utilizando Vue.js, Nuxt.js e Node.js, além de habilidades avançadas em JavaScript, jQuery, Ajax e JSON. Também sou capacitado em ferramentas de AWS, com foco em soluções serverless e infraestrutura como código utilizando TypeScript e AWS Cloud Development Kit.
+
+Com conhecimento em Nuxt UI para a criação de interfaces dinâmicas e responsivas, além de experiências em hardware e manutenção de sistemas, sou capaz de oferecer soluções completas e eficientes para os desafios tecnológicos. Estou sempre em busca de aprender novas tecnologias e contribuir para a transformação digital e a melhoria contínua dos processos.
         </p>
 </div>
 
